@@ -38,6 +38,7 @@ gem 'font-awesome-sass', '~> 5.0.9'
 gem 'simple_form'
 gem 'dotenv-rails', groups: [:development, :test]
 gem 'cloudinary'
+gem 'rest-client', '~> 2.0', '>= 2.0.2'
 
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
